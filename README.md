@@ -1,5 +1,5 @@
 # Barbera
-SnipAndClip is a mobile app that connect Barber and Customer to book an appointment online without the hassle of getting in a waiting line before the turn. Following is the breakdown of the features,
+Barbera is a mobile app that connect Barber and Customer to book an appointment online without the hassle of getting in a waiting line before the turn. Following is the breakdown of the features,
 
 - User can search and view barber profile
 - Choose service and book an appointments

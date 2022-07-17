@@ -1,8 +1,8 @@
 # Barbera
 
 ![1](https://user-images.githubusercontent.com/97391128/179387343-a0e3e2bf-9722-47af-b3d4-eb450a7f1379.png)
-![2](https://user-images.githubusercontent.com/97391128/179387360-0c862671-c9de-4396-89a3-4603342fa870.png)
 ![3](https://user-images.githubusercontent.com/97391128/179387362-7e649410-12df-4058-affc-82772a4cafd7.png)
+![2](https://user-images.githubusercontent.com/97391128/179387360-0c862671-c9de-4396-89a3-4603342fa870.png)
 ![4](https://user-images.githubusercontent.com/97391128/179387530-13d9e503-a770-4fa0-a85d-d19a4b037e1a.png)
 ![5](https://user-images.githubusercontent.com/97391128/179387534-b2f5c562-f8c1-4d59-867a-fcc729a7d6bb.png)
 ![6](https://user-images.githubusercontent.com/97391128/179387536-16e2ccc3-75b9-49dc-a4bd-80de5bf1f28d.png)
